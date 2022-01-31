@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Source\\HealthPickup\\HealthPickup.Build.cs",
+		"C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Plugins\\LeapUnreal-master\\Source\\BodyState\\BodyState.Build.cs",
+		"C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Plugins\\LeapUnreal-master\\Source\\LeapMotionEditor\\LeapMotionEditor.Build.cs",
+		"C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Plugins\\LeapUnreal-master\\Source\\LeapMotion\\LeapMotion.Build.cs",
+		"C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Source\\HealthPickup.Target.cs",
+		"C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Source\\HealthPickupEditor.Target.cs",
+		"C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Source\\HealthPickupServer.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "HealthPickup",
+			"Path": "C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Source\\HealthPickup.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HealthPickupEditor",
+			"Path": "C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Source\\HealthPickupEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "HealthPickupServer",
+			"Path": "C:\\Users\\Dany8\\OneDrive - 365education\\BTS Classes\\Semester 3\\GAMEN2 Rattrapage\\GAMEEN1_Project 4.26\\Source\\HealthPickupServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}
